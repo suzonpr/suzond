@@ -1,0 +1,48 @@
+h1{
+    color: aqua;
+    text-decoration: underline;
+    text-size-adjust: 30px;
+
+}
+#login{
+    text-align: center;
+    color: rgb(0, 226, 11);
+}
+    
+
+input{
+    color: rgb(11, 236, 29);
+    tab-size: 50px;
+}
+p{
+    color: red;
+    tab-size: 50px;
+}
+#email{
+color: rgb(77, 4, 247);
+text-align: center;
+
+}
+#usr{
+    color: rgb(68, 228, 20);
+}
+#password{
+    color: rgb(68, 228, 20);
+}
+#forget{
+    text-align: center;
+    color: blue;
+}
+#neme{
+    color: rgb(82, 17, 235);
+}
+#usr_one{
+    color: rgb(76, 0, 255);
+}
+#password-one{
+    color: rgb(82, 17, 235);
+}
+#re-enter{
+    color: rgb(82, 17, 235);
+}
+ba
